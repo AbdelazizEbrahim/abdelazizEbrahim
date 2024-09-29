@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelaziz</h1>
 <h3 align="center">A passionate Full stack developer.</h3>
-<img align="center" alt="Coding" width="1000" src="https://t4.ftcdn.net/jpg/02/78/37/47/240_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelazizebrahim&label=Profile%20views&color=0e75b6&style=flat" alt="abdelazizebrahim" /> </p>
 
